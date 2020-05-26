@@ -1,0 +1,10 @@
+C:\Users\den32\source\repos\ComPortRead\bin\Debug\ComPortRead.exe.config
+C:\Users\den32\source\repos\ComPortRead\bin\Debug\ComPortRead.exe
+C:\Users\den32\source\repos\ComPortRead\bin\Debug\ComPortRead.pdb
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.csprojAssemblyReference.cache
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.Form1.resources
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.Properties.Resources.resources
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.csproj.GenerateResource.cache
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.csproj.CoreCompileInputs.cache
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.exe
+C:\Users\den32\source\repos\ComPortRead\obj\Debug\ComPortRead.pdb
